@@ -6,4 +6,8 @@
   <Project Path="Inventario.Tests/Inventario.Tests.csproj" Id="aa130aab-e9c9-430b-9b6a-161d143ccf9b" />
   <Project Path="Inventario.UI/Inventario.UI.csproj" />
   <Project Path="Inventario.Web/Inventario.Web.csproj" Id="790ac20c-c46f-4529-a5fa-b313af073389" />
+  <Project Path="react/react.esproj">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>
